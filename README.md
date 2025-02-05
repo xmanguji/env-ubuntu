@@ -16,3 +16,6 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-
  - cd ..
  - ls
  - cd var/www/tokenlite/ICO
+
+## Deploy Laravel App to Amazon EC2 (Ngnix)
+https://dev.to/chengkangzai/set-by-step-how-to-deploy-laravel-app-to-amazon-ec2-free-tier-4ca8
