@@ -11,3 +11,8 @@
 ## http to https (Let's encrypt)
 https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-22-04
 
+## Finding the path
+ - cd ..
+ - cd ..
+ - ls
+ - cd var/www/tokenlite/ICO
